@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Table from './Table';
 import Counter from './Counter';
 
-import Tests from '../dummyTest/tests';
+import Tests from '../dummyTest';
 
 const Container = styled.div`
     display: flex;

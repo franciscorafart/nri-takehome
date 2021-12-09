@@ -1,5 +1,5 @@
 function generateDummyTest() {
-    const delay = 100 + Math.random() * 7000;
+    const delay = 7000 + Math.random() * 7000;
     const testPassed = Math.random() > 0.5;
   
     return function (callback) {
